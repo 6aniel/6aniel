@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently a Combined Economics and Statistics student at UBC and am interested in Computational Social Science, with a special interest in using statistical methods to explore policy making. 
+
 <!--
 **6aniel/6aniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
