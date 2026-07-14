@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-📚 My name is Daniel and I am a Combined Economics and Statistics student at UBC and am interested in Computational Social Science, with a special interest in applications of statistical learning.
-
+📚 My name is Daniel and I am a Combined Economics and Statistics student at UBC, with an interest in Computational Social Science applications!
 
 <!--
 **6aniel/6aniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
